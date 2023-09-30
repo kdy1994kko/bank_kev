@@ -24,23 +24,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Awards and Recognitions",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We're proud to be consistently recognized for our efforts to provide members the very best. ",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Accessibility",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We're focused on ensuring all members have equal access to our products and services.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Commitment to Service Excellence",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We're committed to exceptional member service and experience.",
   },
 ];
 
