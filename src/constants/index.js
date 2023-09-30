@@ -167,11 +167,6 @@ export const socialMedia = [
     link: "https://www.facebook.com/kevvankko.young/",
   },
   {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
-  },
-  {
     id: "social-media-4",
     icon: linkedin,
     link: "https://www.linkedin.com/in/kevvan-d-young/",

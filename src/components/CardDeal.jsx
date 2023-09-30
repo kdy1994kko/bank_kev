@@ -9,7 +9,10 @@ const CardDeal = () => (
         What's more <br className="sm:block hidden" /> important to you?
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        REWARDS, GREAT RATES, BUILDING CREDIT <br className="sm:block hidden" /> Browse Our Cards
+        REWARDS, GREAT RATES, BUILDING CREDIT 
+      </p>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+        \(^o^)/ Browse Our Cards Today !!
       </p>
 
       <a href="https://www.navyfederal.org/loans-cards/credit-cards.html" target="_blank" rel="noreferrer">
