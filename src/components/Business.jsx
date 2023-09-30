@@ -27,8 +27,9 @@ const Business = () =>  (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Focusing on values of Service, Integrity and Community supports our mission to make you our top priority.
       </p>
-
-      <Button styles={`mt-10`} />
+      <a href="https://www.navyfederal.org/about.html" target="_blank" rel="noreferrer">
+        <Button styles={`mt-10`} />
+      </a>
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
